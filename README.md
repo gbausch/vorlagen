@@ -3,8 +3,8 @@
 In diesem Repo finden Sie Vorlagen zur Erstellung von Dokumenten in LaTeX. Folgende Vorlagen stehen zur Auswahl:
 
 - `Article.tex`: Vorlage für kleinere Dokumente wie bspw. ein Proposal (Vorschlag) für eine Praxis- oder Abschlussarbeit
-- `Report.tex`: Vorlage für ein größeres Dokument wie bspw. eine Projektdokumentation
-- `Thesis.tex`: Vorlage für eine Abschlussarbeit (Bachelor- oder Masterarbeit)
+- `Report.tex`: Vorlage für ein größeres Dokument wie bspw. eine Projektdokumentation (@ToDo)
+- `Thesis.tex`: Vorlage für eine Abschlussarbeit (Bachelor- oder Masterarbeit) (@ToDo)
 
 In der Datei `htwk.sty` sind alle Zusatzpakete enthalten sowie die entpsrechenden Einstellungen zu finden. Somit bleibt die Hauptdatei übersichtlich.
 
